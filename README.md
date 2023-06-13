@@ -5,9 +5,10 @@
 ## HOW TO RUN 
     first make sure you have node and npm installed then run the command:
 
-    ```bash
- npm i
-    ```
+   ```bash
+    npm i
+   ```
+   
     this is to install all dependencies.
     TO start the project
 ```bash
