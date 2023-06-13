@@ -8,9 +8,10 @@
    ```bash
     npm i
    ```
-   
-    this is to install all dependencies.
-    TO start the project
+
+this is to install all dependencies.
+ ##   TO start the project
+
 ```bash
  npm run dev 
 ``` 
