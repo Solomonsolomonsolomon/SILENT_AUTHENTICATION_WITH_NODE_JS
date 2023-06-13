@@ -3,7 +3,7 @@
         silent authentication using node.js as Authorization Server (AS) and Client as a single HTML file
 
 ## HOW TO RUN 
-    first make sure you have node and npm installed then run the command:
+first make sure you have node and npm installed then run the command:
 
    ```bash
     npm i
